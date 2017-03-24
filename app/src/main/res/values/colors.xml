@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="split_line">#757575</color>
+    <color name="tab_host_background">#FFFFFF</color>
+    <color name="big_image_title">#FFFFFF</color>
+    <color name="list_item_title">#000000</color>
+    <color name="tab_selected_color">#cc0066</color>
+    <color name="expand_layout">#3F51B5</color>
+    <color name="banner_life_item">#3F4B91</color>
+    <color name="expand_item_high_light">#FF4081</color>
+    <color name="expand_item_normal">#8B7D6B</color>
+    <color name="ripple_life_item_big_image">#6D759E</color>
+
+    <color name="cons_content_text">#536D8A</color>
+    <color name="cons_content_background">#E5DEEB</color>
+    <color name="cons_query_button_normal">#A7A7DB</color>
+    <color name="cons_query_button_pressed">#8B7D6B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#EEEE00</color>
+</resources>

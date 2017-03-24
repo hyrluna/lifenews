@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/76948cf1e71d67f433f8ba6d0bd29db5546b9edf/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3b2f2c3e17f1bccc57a166d8fd15a7957f294f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/7cbc724492b6ce2ca60ade88a5f85f237ef62f3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d0b44d023447ef5ff2e3aaaf6a506c6c011f405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/000ed697c31c293a8271616b98ec8fd04dedd8c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e522777a3f15c1565ee4c6cc5c88ece5747403c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/6588a167a90b742bca41e6df5fb0c6596b62be84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_060ae2d1f2f798970eb275bd4cf715c3d193f768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/android-projects/lifenews/app/libs/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.2_bccb857f04982ff0c24de4a7d1d5afbcf52256a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/fb7dad9090e028ce57b00fbe4c6673d600c1e2c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bfd59ec4b48b7d6de20dae8a5c0608ed5cdf867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta4/bd49baf667542c7d06f71e598bdee7fe57272013/adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0-beta4_abd9ed7cf7bd7e3d85aced086a08a52244bca9a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/8e7b413ea96e49ad718f8d99bbbc5d389bcff806/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7b5b86c1fa944e9725938336820afce5cd2edd29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/e253d6aee076a0dd8cb178c238f856de54efe1cd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a55d18390302f671af7581a12338729b14be1519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/e5c0b02a6af2194707c06621ca6276d961c7e84b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c27aea45fb254d37cb280bdd770a358d9b0fd2e">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_376d6fc80a9d0badf80777e8d754cd8c23bdfd3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/67c3646268d338026d4cf1646c5dd0dfb7f5a6c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99a02b8ba43526cec93a4d9130ad0499b6b6c390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/Programs/androidsdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8648d69a1fbf0207471d5313843edf9f0df91ec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/8e5c9e688276d301e8788c811d11b9148c9a07d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e99d7597aaf8fcf1576523a8c93653d14f244a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta4_8f499917e10c6f073e0db12fc6eb8afc3ca4ae59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/42a4f385daa5bc642390799699b1e63772e68438/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c0a3c3ccc840b9922093aa7aba271655bfc0d023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_0d50138118935c3d6586fac970c8bd77c707497d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/6972e1115c9537f602d8b8b1ab7b104e831b50d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3156b93634c5013cb4714d7802435fc09d2caa05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/c46a84b0ae503d05854b5dab80ea8df9e0f8bf65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a9adf1965edea80a6b22fda0c6a9de0e1429c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/8e7b413ea96e49ad718f8d99bbbc5d389bcff806/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a39d9d86d018e3f5f9aba80b4e1e85e977ec249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_56f7fad26d9d61ad5cbaac5ebfff29fc731187d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_cbe73ffba7e30aeefd757ee534c762c46943a71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/e253d6aee076a0dd8cb178c238f856de54efe1cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de071b179ed70d67febd5f7f1c3ef2fe6a1924bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/089a08a3d7fb23f82dc15aaec413d53293a261dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3d9ca7b95d29db0f7f7b9dba1c42aa01500a6f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta4_e0aa6608964c0a8d35ec7c207050e46fa3fe1368/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_632e309ecec4921948fbcb0973d668b3f6125d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/c46a84b0ae503d05854b5dab80ea8df9e0f8bf65/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dbf46815a0587a237924b15ebd78d17f34ae7253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/android-projects/lifenews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="415f2dc2cfa18f3e28bff0f73fd8d5ce5abfacf5">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0b07075f6980a04a4218a3b75cd45b5c5cf31eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_beb56b9cfaec2f621780556a01bae19b1fb07e36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/d30c911322f92beeb2ff8c14f0e4d5816ee2387c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ca99846e895ee752b9156f1ba5765e1828e074f">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8221a17a559d17070bc954351db8d681ade12e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/android-projects/lifenews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_208fd3fe566ebaad0e6d88452da056850ad5eece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/76948cf1e71d67f433f8ba6d0bd29db5546b9edf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abdc770c0703920ce53badaab2a73b145475643a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_0a13ace851ad571050c956358d4e892352b40470/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamboo/.android/build-cache/42a4f385daa5bc642390799699b1e63772e68438/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/bamboo/android-projects/lifenews/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2de2eec19fa434aa95ed4a9bcd1527b946812c1c/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,84 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--linearLayout 覆盖子类控件直接获取焦点-->
+    <!--android:descendantFocusability="blocksDescendants"-->
+    <xh.lifenews.widget.TabButton
+        android:id="@+id/tab_button_news"
+        style="@style/RippleStyle"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:background="@drawable/tab_button_ripple"
+        android:gravity="center_horizontal"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:layout_width="@dimen/tab_main_image_size"
+            android:layout_height="@dimen/tab_main_image_size"
+            android:contentDescription="@string/tab_news"
+            android:background="@drawable/news_icon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/tab_main_margin"
+            android:paddingBottom="@dimen/tab_main_margin"
+            android:textSize="@dimen/tab_main_text_size"
+            android:text="@string/tab_news"/>
+
+    </xh.lifenews.widget.TabButton>
+
+    <xh.lifenews.widget.TabButton
+        android:id="@+id/tab_button_life"
+        style="@style/RippleStyle"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:clickable="true"
+        android:background="@drawable/tab_button_ripple"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:layout_width="@dimen/tab_main_image_size"
+            android:layout_height="@dimen/tab_main_image_size"
+            android:contentDescription="@string/tab_joke"
+            android:background="@drawable/service_icon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/tab_main_margin"
+            android:paddingBottom="@dimen/tab_main_margin"
+            android:textSize="@dimen/tab_main_text_size"
+            android:text="@string/tab_joke"/>
+
+    </xh.lifenews.widget.TabButton>
+
+    <xh.lifenews.widget.TabButton
+        android:id="@+id/tab_button_profile"
+        style="@style/RippleStyle"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:clickable="true"
+        android:background="@drawable/tab_button_ripple"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:layout_width="@dimen/tab_main_image_size"
+            android:layout_height="@dimen/tab_main_image_size"
+            android:contentDescription="@string/tab_profile"
+            android:background="@drawable/profile_icon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/tab_main_margin"
+            android:paddingBottom="@dimen/tab_main_margin"
+            android:textSize="@dimen/tab_main_text_size"
+            android:text="@string/tab_profile"/>
+
+    </xh.lifenews.widget.TabButton>
+</merge>

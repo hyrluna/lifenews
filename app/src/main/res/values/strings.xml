@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">阅生活</string>
+
+    <string name="tab_news">新闻</string>
+    <string name="tab_joke">生活服务</string>
+    <string name="tab_profile">我</string>
+
+    <string name="toolbar_title_news">阅生活·新闻</string>
+    <string name="toolbar_title_life">阅生活·生活服务</string>
+    <string name="toolbar_title_profile">个人信息</string>
+
+    <string name="news_type_top">头条</string>
+    <string name="news_type_shehui">社会</string>
+    <string name="news_type_guonei">国内</string>
+    <string name="news_type_guoji">国际</string>
+    <string name="news_type_yule">娱乐</string>
+    <string name="news_type_tiyu">体育</string>
+    <string name="news_type_junshi">军事</string>
+    <string name="news_type_keji">科技</string>
+    <string name="news_type_caijing">财经</string>
+    <string name="news_type_shishang">时尚</string>
+
+    <string name="expand_title">切换栏目</string>
+
+    <!--constellation-->
+    <string name="cons_query_button">查询</string>
+
+    <!--动画-->
+    <string name="transition_reveal1">transition_reveal1</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+      <string name="test_string">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais</string>
+</resources>
